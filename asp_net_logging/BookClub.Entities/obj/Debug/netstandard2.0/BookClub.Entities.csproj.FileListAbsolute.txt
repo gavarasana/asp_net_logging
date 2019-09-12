@@ -1,0 +1,9 @@
+D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Entities\bin\Debug\netstandard2.0\BookClub.Entities.deps.json
+D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Entities\bin\Debug\netstandard2.0\BookClub.Entities.dll
+D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Entities\bin\Debug\netstandard2.0\BookClub.Entities.pdb
+D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.csprojAssemblyReference.cache
+D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.csproj.CoreCompileInputs.cache
+D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.AssemblyInfoInputs.cache
+D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.AssemblyInfo.cs
+D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.dll
+D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.pdb
