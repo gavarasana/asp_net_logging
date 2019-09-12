@@ -10,3 +10,15 @@ D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\Book
 D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.csproj.CopyComplete
 D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.dll
 D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.pdb
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Data.deps.json
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Data.dll
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Data.pdb
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Entities.dll
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Entities.pdb
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.csprojAssemblyReference.cache
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.csproj.CoreCompileInputs.cache
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.AssemblyInfoInputs.cache
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.AssemblyInfo.cs
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.csproj.CopyComplete
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.dll
+D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.pdb
