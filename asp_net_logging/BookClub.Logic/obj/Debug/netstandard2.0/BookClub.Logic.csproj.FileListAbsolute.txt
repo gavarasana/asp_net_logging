@@ -1,17 +1,3 @@
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Logic.deps.json
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Logic.dll
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Logic.pdb
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Data.dll
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Entities.dll
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Data.pdb
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Entities.pdb
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\obj\Debug\netstandard2.0\BookClub.Logic.csprojAssemblyReference.cache
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\obj\Debug\netstandard2.0\BookClub.Logic.csproj.CoreCompileInputs.cache
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\obj\Debug\netstandard2.0\BookClub.Logic.AssemblyInfoInputs.cache
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\obj\Debug\netstandard2.0\BookClub.Logic.AssemblyInfo.cs
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\obj\Debug\netstandard2.0\BookClub.Logic.csproj.CopyComplete
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\obj\Debug\netstandard2.0\BookClub.Logic.dll
-D:\code\git\learn\aspnetcore-effective-logging\AspNetCore-Effective-Logging\BookClub.Logic\obj\Debug\netstandard2.0\BookClub.Logic.pdb
 D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Logic.deps.json
 D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Logic.dll
 D:\code\git\learn\asp_net_logging\asp_net_logging\BookClub.Logic\bin\Debug\netstandard2.0\BookClub.Logic.pdb
