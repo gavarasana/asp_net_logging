@@ -20,13 +20,16 @@ namespace BookClub.Data
 
         public List<Book> GetAllBooks()
         {
-            // most beneficial for some kind of db transaction potentially
-            _logger.LogInformation("Inside Get all books method in book repository");
+            using (_logger.BeginScope("GetAllBooks: Doing BAD database work"))
+            {
+                // most beneficial for some kind of db transaction potentially
+                _logger.LogInformation("Inside Get all books method in book repository");
 
-                var books = _db.Query<Book>("GetAllBooks", commandType: CommandType.StoredProcedure)
-                    .ToList();
-                return books;
-            
+                throw new DataException("DB Server not found");
+                //var books = _db.Query<Book>("GetAllBooks", commandType: CommandType.StoredProcedure)
+                //    .ToList();
+                //return books;
+            }
             
         }
 
