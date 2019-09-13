@@ -12,28 +12,21 @@ namespace BookClub.Data
         private readonly IDbConnection _db;
         private readonly ILogger _logger;
 
-        public BookRepository(IDbConnection db, ILoggerFactory loggerFactory)
+        public BookRepository(IDbConnection db, ILogger<BookRepository> logger)
         {
             _db = db;
-            _logger = loggerFactory.CreateLogger("Database");
+            _logger = logger; // loggerFactory.CreateLogger("Database");
         }
 
         public List<Book> GetAllBooks()
         {
             // most beneficial for some kind of db transaction potentially
-            using (_logger.BeginScope("Doing database work"))  
-            {
-                //_logger.LogInformation("Inside the repository about to call GetAllBooks.");                        
-                _logger.RepoGetBooks();
-
-                //_logger.LogDebug(DataEvents.GetMany, "Debugging information for stored proc: {ProcName}", 
-                //                 "GetAllBooks");
-                _logger.RepoCallGetMany("GetAllBooks");
+            _logger.LogInformation("Inside Get all books method in book repository");
 
                 var books = _db.Query<Book>("GetAllBooks", commandType: CommandType.StoredProcedure)
                     .ToList();
                 return books;
-            }
+            
             
         }
 
